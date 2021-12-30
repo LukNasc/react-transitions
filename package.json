@@ -1,7 +1,13 @@
 {
   "name": "@luknasc/react-transitions",
+  "description": "a lib to do react transitions and animations",
+  "author": "Luknasc",
+  "keywords": ["react","react-transitions","transitions","ts"],
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": ["dist","README.md"],
   "version": "0.1.0",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/LukNasc/react-transitions"
